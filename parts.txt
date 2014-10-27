@@ -1,0 +1,23 @@
+ANT 1ks http://www.soselectronic.cz/?str=371&artnum=54954&name=2j-2j010
+
+5vto3v https://www.sparkfun.com/products/12009
+
+SMA-15 1ks http://www.tme.eu/cz/details/sma-15/konektory-sma-smb-smc/#
+BTM-112 1ks http://www.tme.eu/cz/details/btm-112/moduly-bluetooth/rayson/#
+24VDC 2k sconnector http://www.tme.eu/cz/details/pc-gk2.5/konektory-dc/#
+LED1 1ks http://www.tme.eu/cz/details/led3f-g-lc/led-diody-tht-3mm/optosupply/osng3134b/#
+LED2 1ks http://www.tme.eu/cz/details/led3f-r-lc/led-diody-tht-3mm/optosupply/osnr3134b/#
+R5-6 2ks http://www.tme.eu/cz/details/mf0207fte-220r/metalizovane-rezistory-tht-06w/yageo/#
+
+U1 U2 rj45 connector 2ks http://www.tme.eu/cz/details/5555162-1/konektory-rj/te-connectivity/#
+R1-4 4ks http://www.tme.eu/cz/details/mf0207fte-1k/metalizovane-rezistory-tht-06w/yageo/#
+S1-4 button 4ks  http://www.tme.eu/cz/details/1301.9303/mikrospinace-tact-pcb/schurter/#
+BUZZER 1ks http://www.tme.eu/cz/details/bmt-0905xh05/elektromag-signalizatory-s-generatorem/bestar/bmt0905xh05/#
+
+Connectory 3x http://www.tme.eu/cz/details/zl209-20p/konektory-hrebinky/connfly/ds1021-1_20sf1-5/#
+
+
+BTM-112 datasheet https://www.sparkfun.com/datasheets/Wireless/Bluetooth/BTM112_wATcommands.pdf
+SMA-15 datasheet http://www.tme.eu/cz/Document/09b408c41d312148b58f72df3a6eecd2/sma-15.pdf
+SD card shield http://www.seeedstudio.com/wiki/SD_Card_shield_V4.0
+SD card http://www.alza.cz/verbatim-sdhc-4gb-class-10-d255461.htm
