@@ -1,0 +1,38 @@
+# Heads
+
+AT
+
+# set name
+ATN=headN
+
+# disable pin
+ATP0
+
+# display local address
+ATB?
+
+---
+
+# Motors
+
+AT
+
+# disable pin
+ATP0
+# set name
+ATN=motorsN
+
+# set master mode
+ATR0
+
+# disable autoconnect
+ATO1
+
+# inquery for remote address
+ATF?
+
+# set rempte address
+ATD=00126F6BBD10
+
+# enable autoconnect
+ATO0

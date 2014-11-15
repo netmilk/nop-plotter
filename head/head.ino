@@ -24,7 +24,7 @@ int servoTargetDelay = 500;
 void setup() { 
   Serial.begin(9600);  // Begin the serial monitor at 9600bps
 
-  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+  myservo.attach(10);  // attaches the servo on pin 9 to the servo object
   myservo.write(servoDefault);
 
   // Setup bluetooth
@@ -88,7 +88,7 @@ void parseCommand(String commandString) {
 // Evaluating commands = mapping commands to functions
 void evalCommand(String command, String arg1, String arg2, String arg3){
   if(command == "paint"){
-    bluetooth.println("head: painting");
+    //bluetooth.printlnSSSS("head: painting");
     sweepServo();
   }
 
